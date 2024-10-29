@@ -1,7 +1,7 @@
 ## InfTower
 
 # Como clonar o repositorio
-    git clone 
+    git clone https://github.com/AbyssShard/Inferno_Tower.git
 
 # Como puxar atualizações do repositorio
     git pull
